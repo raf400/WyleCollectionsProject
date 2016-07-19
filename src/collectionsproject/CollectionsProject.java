@@ -101,7 +101,7 @@ public class CollectionsProject {
         /**
          *  Why was HashMap chosen?
          * 
-         * Since the requirements id not specified if keys should be
+         * Since the requirements did not specified if keys should be
          * sorted, HashMap is a clean and safe way of associating keys and values.
          * Also as the requirement only specify 5 key/values should be added, there
          * are no issues with nulls being inserted.
